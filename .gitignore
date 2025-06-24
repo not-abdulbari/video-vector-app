@@ -39,3 +39,7 @@ Thumbs.db
 # R2 or uploaded data
 frames/
 temp_*.mp4
+
+
+#other
+other.txt
