@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+env/
+ENV/
+
+# VSCode
+.vscode/
+
+# Environment variable files
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.sqlite3
+*.db
+*.tmp
+*.bak
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# R2 or uploaded data
+frames/
+temp_*.mp4

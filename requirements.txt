@@ -1,0 +1,11 @@
+pip
+
+fastapi
+uvicorn
+opencv-python
+numpy
+python-multipart
+qdrant-client
+boto3
+python-dotenv
+pillow
